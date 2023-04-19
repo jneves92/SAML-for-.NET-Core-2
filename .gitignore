@@ -1,0 +1,8 @@
+/.DS_Store
+**/.DS_Store
+/Examples/**/**/**/**/bin/
+**/obj/
+.vs
+
+Examples/Angular/ExampleAngularSpa/.angular/cache
+Examples/Angular/ExampleAngularSpa/node_modules

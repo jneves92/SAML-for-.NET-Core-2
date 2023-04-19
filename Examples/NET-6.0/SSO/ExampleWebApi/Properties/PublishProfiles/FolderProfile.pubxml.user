@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\ComponentSpace\Products\SAMLv20.Core\Examples\NET-6.0\SSO\ExampleWebApi\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-12-19T21:09:39.4730620Z;</History>
+  </PropertyGroup>
+</Project>

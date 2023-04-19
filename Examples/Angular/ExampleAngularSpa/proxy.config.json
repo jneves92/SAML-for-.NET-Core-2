@@ -1,0 +1,14 @@
+{
+  "/Saml/*": {
+    "target": "https://b7fe-188-250-240-31.ngrok-free.app",
+    "secure": false,
+    "logLevel": "info",
+    "changeOrigin": true
+  },
+  "/api/*": {
+    "target": "https://b7fe-188-250-240-31.ngrok-free.app",
+    "secure": false,
+    "logLevel": "info",
+    "changeOrigin": true
+  }
+}
